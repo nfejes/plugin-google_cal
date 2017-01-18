@@ -1,7 +1,7 @@
-base   googlecal
-author Kite, Christopher Smith
+base   googlecal2
+author Niklas Fejes, Kite, Christopher Smith
 email  kite@puzzlers.org
-date   2007-05-01
-name   Google Calendar plugin
+date   2017-01-18
+name   Google Calendar plugin V2
 desc   Adds a Google Calendar iframe
-url    http://dokuwiki.org/plugin:google_cal
+url    https://github.com/nfejes/plugin-googlecal2
